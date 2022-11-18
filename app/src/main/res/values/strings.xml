@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleVideoStreamer</string>
+    <string name="input_label">URL Input</string>
+    <string name="input_hint">Enter your video URL here...</string>
+    <string name="btn_label_start">Start Stream</string>
+    <string name="btn_label_reset">Clear URL Input</string>
+</resources>
